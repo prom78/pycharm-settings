@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Program Files\cygwin64\bin\bash.exe" />
+    <option name="myTabName" value="Local cygwin" />
+  </component>
+</application>
