@@ -1,5 +1,10 @@
 <application>
   <component name="PyPackageService">
+    <option name="sdkToUsersite">
+      <map>
+        <entry key="C:\Program Files\cygwin64\bin\python.exe" value="false" />
+      </map>
+    </option>
     <option name="PY_PACKAGES">
       <map>
         <entry key="0-._.-._.-._.-._.-._.-._.-0" value="" />
