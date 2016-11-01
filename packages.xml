@@ -12178,7 +12178,7 @@
         <entry key="apicaller" value="" />
         <entry key="apicapi" value="" />
         <entry key="apicheck" value="" />
-        <entry key="apiclient" value="" />
+        <entry key="apiclient" value="1.0.3" />
         <entry key="apiclient-requests" value="" />
         <entry key="apicrafter" value="" />
         <entry key="apicultur" value="" />
@@ -24567,7 +24567,7 @@
         <entry key="discoursegraphs" value="" />
         <entry key="discover" value="" />
         <entry key="discoverpy" value="" />
-        <entry key="discovery" value="" />
+        <entry key="discovery" value="0.0.4" />
         <entry key="discreteMarkovChain" value="" />
         <entry key="discretisedfield" value="" />
         <entry key="discretize" value="" />
@@ -59319,7 +59319,7 @@
         <entry key="parquet2hive" value="" />
         <entry key="parrot" value="" />
         <entry key="parsable" value="" />
-        <entry key="parse" value="" />
+        <entry key="parse" value="1.6.6" />
         <entry key="parse-python-indentation" value="" />
         <entry key="parse-requests" value="" />
         <entry key="parse-requirements-not-suckily" value="" />
@@ -67265,7 +67265,7 @@
         <entry key="pyparallelcurl" value="" />
         <entry key="pyparma" value="" />
         <entry key="pyparsec" value="" />
-        <entry key="pyparser" value="" />
+        <entry key="pyparser" value="1.0" />
         <entry key="pyparseuri" value="" />
         <entry key="pyparsing" value="" />
         <entry key="pyparsing_helper" value="" />
@@ -73382,7 +73382,7 @@
         <entry key="requestions" value="" />
         <entry key="requeston" value="" />
         <entry key="requestry" value="" />
-        <entry key="requests" value="" />
+        <entry key="requests" value="2.11.1" />
         <entry key="requests-aeaweb" value="" />
         <entry key="requests-aliyun" value="" />
         <entry key="requests-auth-mashery" value="" />
@@ -86489,7 +86489,7 @@
         <entry key="urllib2_file" value="" />
         <entry key="urllib2_kerberos" value="" />
         <entry key="urllib2_prior_auth" value="" />
-        <entry key="urllib3" value="" />
+        <entry key="urllib3" value="1.18.1" />
         <entry key="urllib3-mock" value="" />
         <entry key="urllib4" value="" />
         <entry key="urllib5" value="" />
